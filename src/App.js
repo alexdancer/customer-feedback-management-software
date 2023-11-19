@@ -5,7 +5,7 @@ function App() {
     
     <div className="App-header">
       <div className="Links">
-        <a href="#">Dashboard</a>
+        <a href="App.js">Dashboard</a>
         <a href="#">Link 2</a>
         <a href="#">Link 3</a>
         <a href="#">Link 4</a>

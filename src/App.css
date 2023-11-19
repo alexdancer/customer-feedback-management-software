@@ -33,6 +33,10 @@
   display: block;
 }
 
+.Links a:hover {
+  color: #9f9e9e;
+}
+
 .Table {
   position: absolute; top:0; left: 0px; right: 0;
   flex-grow: 1; /* Fill the remaining horizontal space */
